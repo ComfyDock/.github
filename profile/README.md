@@ -1,8 +1,8 @@
 <div align="justify">
 
 <div align="center">
-  <img src="your-image.png" width="200">
-  <h2>Sendy Software</h2>
+  <img src="https://github.com/user-attachments/assets/7055330a-b8c6-4b23-8377-be5595f30222" width="200">
+  <h2>Comfy Dock</h2>
   I'm an <b>Open-Source Developer</b> dedicated to building <b>AI-Optimized Workflows & Infrastructure</b>
 </div>
 
